@@ -17,8 +17,8 @@ logo=f"""
 \033[31m/_/\033[1;35m /_/  \033[1;37m\__/\__/\033[1;37m___/\__/\_, /_/\__/    
                         /___/            
 \x1b[0m{cox}
-  \033[38;5;96m\033[47m B \x1b[0m\033[38;5;196m DEVELOPER   :   FREE-STYLE 
-  \033[38;5;97m\033[47m O \x1b[0m\033[38;5;197m GITHUB      :   TEAM-ELITE1
+  \033[38;5;96m\033[47m B \x1b[0m\033[38;5;196m DEVELOPER   :   SSRB
+  \033[38;5;97m\033[47m O \x1b[0m\033[38;5;197m GITHUB      :   SSRB
   \033[38;5;98m\033[47m B \x1b[0m\033[38;5;198m POWER BY    :   TAMAK PATA
 \033[1;30m{cox}"""
 def logox():
